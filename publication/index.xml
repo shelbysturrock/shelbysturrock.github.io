@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Shelby L. Sturrock</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>A sub-national real-time epidemiological and vaccination database for the COVID-19 pandemic in Canada</title>
+      <link>/publication/ccodwg/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ccodwg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The uneven impacts of avoiding public transit on riders’ access to healthcare during COVID-19</title>
+      <link>/publication/public-transit-covid/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/public-transit-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The association of estimated cardiorespiratory fitness with COVID-19 incidence and mortality: A cohort study</title>
+      <link>/publication/crf-covid-mortality/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/crf-covid-mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Has public health messaging during the COVID-19 pandemic reflected local risks to health?: A content analysis of tweeting practices across Canadian geographies</title>
+      <link>/publication/public-health-tweet-2/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/public-health-tweet-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increased Interregional Travel to Shopping Malls and Restaurants in Response to Differential COVID-19 Restrictions in the Greater Toronto Area</title>
+      <link>/publication/interregional-travel-covid/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/interregional-travel-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mobility gap: estimating mobility thresholds required to control SARS-CoV-2 in Canada</title>
+      <link>/publication/mobility-gap/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mobility-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of a nighttime curfew on overnight mobility</title>
+      <link>/publication/qc-curfew/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/qc-curfew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining Tweet Content and Engagement of Canadian Public Health Agencies and Decision Makers During COVID-19: Mixed Methods Analysis</title>
+      <link>/publication/public-health-tweet/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/public-health-tweet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measures of Adiposity and Risk of Testing Positive for SARS-CoV-2 in the UK Biobank Study</title>
+      <link>/publication/adiposity-biobank/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/adiposity-biobank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open government data, uncertainty and coronavirus: an infodemiological case study</title>
+      <link>/publication/open-data-covid/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/open-data-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Four Dates, One Future</title>
+      <link>/publication/utjph-editorial/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/utjph-editorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index</title>
+      <link>/publication/covid-mobility/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/covid-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Milk Oligosaccharide Composition of Breast Milk from Lactating Women in Dhaka, Bangladesh</title>
+      <link>/publication/breast-milk/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/breast-milk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Celebrity over science? An analysis of Lyme disease video content on YouTube</title>
+      <link>/publication/lyme-celebrity/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lyme-celebrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Geography and Scale of Soil-Transmitted Helminth Infections</title>
+      <link>/publication/helminths/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/helminths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil-transmitted Helminth Infections in Honduras: Mapping Infection Prevalence and Implications for Health Care Regionalization</title>
+      <link>/publication/msc-thesis/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/msc-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
